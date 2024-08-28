@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="deep-jasoliya" /> </p>
 
-- ⚡ Fun fact **I think I Am more Excited about the "Keep Moving Forward of My Life".**
+- ⚡ Fun fact **I think I Am more Excited about the "Keep Moving Forward in My Life".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deep jasoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep jasoliya" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/deep jasoliya](https://www.linkedin.com/in/deep-jasoliya-969896269/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep jasoliya" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.deep__9009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.deep__9009" height="30" width="40" /></a>
 </p>
 
