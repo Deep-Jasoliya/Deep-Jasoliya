@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Deep Jasoliya</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="deep-jasoliya" /> </p>
 
-- ⚡ Fun fact **I think I Am more Excited about the "Keep Moving Forward of My Life".**
+- ⚡ Fun fact **I think I Am more Excited about the "Keep Moving Forward In My Life".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
