@@ -1,4 +1,4 @@
-![logo](https://github.com/Deep-Jasoliya/Deep-Jasoliya/blob/main/Deep_Banner.png)
+![logo](https://github.com/Deep-Jasoliya/Deep-Jasoliya/blob/main/Deep_Banner.png) 
 
 <h1 align="center">Hi 👋, I'm Deep Jasoliya</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
